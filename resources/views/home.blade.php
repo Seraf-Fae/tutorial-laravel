@@ -9,6 +9,7 @@
                 <div>
                     <h1 class="text-3xl font-bold">Pagina de Tutorial!</h1>
                     <p class="mt-4 text-base-content/60">Estamos haciendo el tutorial a ver que onda</p>
+                    <p> AHORA EN LA INTERWEB!</p>
                 </div>
             </div>
         </div>
